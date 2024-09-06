@@ -1,0 +1,6 @@
+@Ex1_CreatePageHome.Server_HostAddress = http://localhost:5272
+
+GET {{Ex1_CreatePageHome.Server_HostAddress}}/home/
+Accept: application/json
+
+###
